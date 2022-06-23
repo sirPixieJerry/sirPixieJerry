@@ -2,6 +2,8 @@
 
 My name is Jérôme. My friends call me Jerry like this mouse in the cartoons. Besides that, I'm a digital artist full stack web developer, part-time gamer, vegetarian and former squatter. I have lived in Berlin for five years now and I love this city! Pronouns: <span style="color: #D12229">he</span>/him/SirPixie (Yes, I'm queer!)
 
+<span style="color:blue">some _blue_ text</span>
+
 I am currently looking for work. Please give me a job so I can use [this](https://github.com/sirPixieJerry/sirPixieJerry/blob/main/media/img/alien-cat.jpeg) alien cat profile picture again instead of this weird photo of myself.
 
 -   I’m currently working on a page about origami and rings.
