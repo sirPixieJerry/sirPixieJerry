@@ -1,14 +1,14 @@
 ### Dear ladies and gentlemen,
 
-My name is Jerry. I'm an artist full stack web developer, part-time gamer, vegetarian and former squatter. I have lived in Berlin for five years now and I 💘 this city! Pronouns: he/him/SirPixie (Yes, I'm queer!)
+My name is Jerry. I'm an artist full stack web developer, part-time gamer, vegetarian and former squatter. I have lived in Berlin for five years now and I love this city! Pronouns: he/him/SirPixie (Yes, I'm queer!)
 
 I am currently looking for work. Please give me a job so I can use [this](https://github.com/sirPixieJerry/sirPixieJerry/blob/main/alien-cat.jpeg) alien cat profile picture again.
 
--   🔭 I’m currently working on a page about origami and rings.
--   🌱 I’m currently learning to pass coding challenges, [Three.js](https://threejs.org/) and [TypeScript](https://www.typescriptlang.org/)
--   👯 I’m looking to collaborate on a very special page with [Stef](https://github.com/StefAltavista).
--   👁 Take a look at my [repositories](https://github.com/sirPixieJerry?tab=repositories).
--   💬 Ask me about everything you like. I'm happy to help!
+-   I’m currently working on a page about origami and rings.
+-   I’m currently learning to pass coding challenges, [Three.js](https://threejs.org/) and [TypeScript](https://www.typescriptlang.org/)
+-   I’m looking to collaborate on a very special page with [Stef](https://github.com/StefAltavista).
+-   Take a look at my [repositories](https://github.com/sirPixieJerry?tab=repositories).
+-   Ask me about everything you like. I'm happy to help!
 
 Things I know:
 
