@@ -1,6 +1,6 @@
 ### Hey folks 👋,
 
-My name is Jérôme. My friends call me Jerry like this mouse in the cartoons. Besides that, I'm a digital artist full stack web developer, part-time gamer, vegetarian and former squatter. I have lived in Berlin for five years now and I love this city! Pronouns: <p style="color: #D12229">he</p>/him/SirPixie (Yes, I'm queer!)
+My name is Jérôme. My friends call me Jerry like this mouse in the cartoons. Besides that, I'm a digital artist full stack web developer, part-time gamer, vegetarian and former squatter. I have lived in Berlin for five years now and I love this city! Pronouns: he/him/SirPixie (Yes, I'm queer!)
 
 <span style="color:blue">some _blue_ text</span>
 
