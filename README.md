@@ -6,7 +6,7 @@ I am currently looking for work. Please give me a job so I can use [this](https:
 
 -   I’m currently working on a page about origami and rings.
 -   I’m currently learning to pass coding challenges, [Three.js](https://threejs.org/) and [TypeScript](https://www.typescriptlang.org/)
--   I’m looking to collaborate on a very special page with [Stef](https://github.com/StefAltavista).
+-   I’m looking to collaborate on a very special [page](https://github.com/StefAltavista/Noises) with [Stef](https://github.com/StefAltavista) and [Lucas](https://github.com/Lucaisok).
 -   Take a look at my [repositories](https://github.com/sirPixieJerry?tab=repositories).
 -   Ask me about anything you like. I'm happy to help!
 
